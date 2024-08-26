@@ -1,2 +1,1 @@
-# compliance-projects-upenn
-U-Penn Regulatory Compliance Projects
+#Projects feature from UC Irvine Intro to Cybersecurity and Risk Management, U-Penn Regulatory Compliance, as well as PwC Job Simulations
